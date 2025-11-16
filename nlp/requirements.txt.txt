@@ -1,0 +1,9 @@
+streamlit
+spacy
+sentence-transformers
+gensim
+scikit-learn
+numpy 
+pandas
+matplotlib
+seaborn
